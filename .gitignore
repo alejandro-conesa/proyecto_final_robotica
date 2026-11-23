@@ -10,3 +10,4 @@ wheels/
 .venv
 .DS_Store
 dataset_maps
+dataset_maps.zip
